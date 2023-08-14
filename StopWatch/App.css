@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+.disp{
+ margin-left: 100px;
+ margin-top: 100px;
+ padding: 10px;
+ border-radius: 50px;
+ background-color: rgb(101, 126, 147);
+ padding: 15px;
+ font-size: 50px;
+ 
+}
+.btnstart{
+  margin-left: 100px;
+  height: 50px;
+  width: 50px;
+  background-color: aquamarine;
+}
+.btnstop{
+  margin-left: 40px;
+  height: 50px;
+  width: 50px;
+  background-color: rgb(184, 143, 143);
+}
+.btnreset{
+  margin-left: 40px;
+  height: 50px;
+  width: 50px;
+  background-color: aquamarine;
+}
